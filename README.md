@@ -72,6 +72,8 @@ A selection of hands-on projects, architecture assessments, and technical explor
 
 ![Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amiruafiq&bg_color=0d1117&color=94a3b8&line=38bdf8&point=22d3ee&area=true&hide_border=true)
 
+![Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amiruafiq&theme=github-dark&hide_border=true)
+
 <details>
 <summary>Repository language breakdown</summary>
 <br>
