@@ -13,7 +13,7 @@ Building practical cloud solutions with security, automation, and governance in 
 ![Security](https://img.shields.io/badge/Security-Governance_%26_Risk-0F766E?style=flat-square)
 ![GenAI](https://img.shields.io/badge/GenAI-Amazon_Bedrock-155E75?style=flat-square)
 
-Malaysia · Cloud Subject Specialist · AWS Certified Solutions Architect – Associate
+Malaysia · Cloud Subject Specialist · AWS Certified Solutions Architect 
 
 </div>
 
