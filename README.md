@@ -45,14 +45,22 @@ $ whoami
 
 ## `03` / Project Portfolio
 
-Selected areas of hands-on work. Repository links will be added once the corresponding public repositories are verified.
+A selection of hands-on projects, architecture assessments, and technical explorations across cloud engineering, security, governance, and AI.
 
-| Project | Engineering Focus | Purpose |
+| Project / Workstream | Engineering Focus | Purpose |
 | :--- | :--- | :--- |
 | AWS Three-Tier Infrastructure | AWS · Terraform · Infrastructure as Code | Provision a structured application environment through repeatable infrastructure definitions |
 | GenAI Knowledge Assistant | Amazon Bedrock · Knowledge Bases | Prototype a knowledge-grounded conversational assistant |
 | Cloud Governance & Landing-Zone Assessments | Architecture Review · Security Controls · Governance | Evaluate cloud environments and turn findings into practical recommendations |
 | AI & Automation Lab | Voice Assistants · CSV Upload Portals · Cloud Prototypes | Explore practical ways to simplify workflows with cloud services and AI |
+| GenAI Voice Assistant | Conversational AI · Voice Interfaces · Cloud Integration | Prototype voice-driven interactions with an AI assistant |
+| CSV Upload & Processing Portal | File Uploads · Data Validation · Cloud Integration | Build a practical interface for submitting and handling structured data |
+| DNS & GitHub Pages Integration | Amazon Route 53 · DNS · GitHub Pages | Configure custom-domain routing for a GitHub-hosted website |
+| Cloud Security Assessments | Security Architecture · Risk Analysis · Control Reviews | Assess cloud solutions and translate technical findings into actionable recommendations |
+| Security Vendor Evaluations | Requirements Analysis · Product Assessment · Risk | Compare security solutions against technical, operational, and governance requirements |
+| Architecture Decision Records | Architecture Governance · Technical Documentation · Trade-Off Analysis | Document design decisions, alternatives, and consequences for stakeholder review |
+| Cloud Architecture Proofs of Concept | AWS · Solution Design · Technical Validation | Validate architectural approaches before wider implementation |
+| Enterprise Security Architecture Reviews | Security Requirements · Architecture Assessment · Stakeholder Communication | Review proposed solutions and communicate security considerations in business context |
 
 ## `04` / Engineering Activity
 
